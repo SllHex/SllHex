@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🕶️ SllHex  
 
-<!--
-**SllHex/SllHex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Inbound coder | Automation & AI | Ghost in the system  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Arsenal  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## 📌 Current Work  
+- [Email-Automation-Bot](https://github.com/SllHex/Email-Automation-Bot)  
+Efficient bulk email automation with tracking & error handling.  
+
+---
+
+## 📊 Signals  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SllHex&show_icons=true&theme=tokyonight&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SllHex&layout=compact&theme=tokyonight&hide_title=true)  
+
+---
+
+> `watching the system...`  
