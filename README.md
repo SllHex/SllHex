@@ -19,10 +19,28 @@ Automates emails efficiently with tracking & error handling.
 
 ---
 
-## 📊 Signals
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SllHex&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SllHex&layout=compact&theme=tokyonight&hide_title=true)
+## 🧪 Experiments & Future Plans
+- **AI Chatbot** – A conversational agent in the making  
+- **Server Watchdog** – Monitoring scripts to keep systems alive  
+- **Web Crawlers** – Silent data harvesters from the deep web  
 
 ---
 
-> `watching the system...`
+## 📊 Signals
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SllHex&show_icons=true&theme=tokyonight&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SllHex&layout=compact&theme=tokyonight&hide_title=true)  
+
+---
+
+## 📡 Contact
+> currently off the grid... 🕶️  
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SllHex&color=blue&style=flat-square)  
+
+![Snake animation](https://github.com/SllHex/SllHex/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+> `watching the system...`  
