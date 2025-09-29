@@ -1,6 +1,6 @@
 # 🐉 SllHex   
 
-> Inbound coder | Automation & AI | Ghost in the system  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00FF00&width=500&lines=Inbound+coder+%7C+Automation+%26+AI+%7C+Ghost+in+the+system)
 
 ---
 
@@ -42,4 +42,5 @@ Automates emails efficiently with tracking & error handling.
 ---
 
 > `watching the system...`  
+
 
