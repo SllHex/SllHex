@@ -1,4 +1,4 @@
-# 🐉 SllHex  
+# 🐉 SllHex   
 
 > Inbound coder | Automation & AI | Ghost in the system  
 
@@ -39,10 +39,7 @@ Automates emails efficiently with tracking & error handling.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SllHex&color=blue&style=flat-square)  
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/SllHex/SllHex/output/github-contribution-grid-snake.svg" />
-
-
-
 ---
 
 > `watching the system...`  
+
