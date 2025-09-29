@@ -1,7 +1,7 @@
 # 🐉 SllHex   
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=5000&pause=500&color=00FFFF&width=800&lines=Inbound+coder+%7C+Automation+%26+AI+%7C+Ghost+in+the+system)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=500&color=FF69B4&width=700&lines=Walking+in+the+shadows+of+the+system;Watching+the+unknown)
+
 ---
 
 ## 🔧 Arsenal
