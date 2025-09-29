@@ -39,7 +39,8 @@ Automates emails efficiently with tracking & error handling.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SllHex&color=blue&style=flat-square)  
 
-![Snake animation](https://github.com/SllHex/SllHex/blob/output/snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/SllHex/SllHex/output/github-contribution-grid-snake.svg" />
+
 
 
 ---
